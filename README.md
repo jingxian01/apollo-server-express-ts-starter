@@ -10,25 +10,19 @@ typescript, express, apolloserver, graphql, nodemon, dotenv
 
 1. clone this repository
 
-2. install package
+2. install packages
 
-   ```shell
-   npm install
-   ```
-
-   or
-
-   ```shell
+   ```bash
    yarn
    ```
 
 3. provide environment variable
 
-   ```shell
+   ```bash
    touch .env
    ```
 
-   ```.env
+   ```dosini
    # .env
 
    PORT=8080
@@ -36,12 +30,6 @@ typescript, express, apolloserver, graphql, nodemon, dotenv
 
 4. start the server
 
-   ```shell
-   npm run dev
-   ```
-
-   or
-
-   ```shell
+   ```bash
    yarn dev
    ```
