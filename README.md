@@ -1,3 +1,7 @@
 # Apollo Server Express TypeScript Starter
 
-a starter template for express with apollo server
+A starter template for express with apollo server.
+
+### What's inside this starter template?
+
+typescript, express, apolloserver, graphql, nodemon, dotenv
