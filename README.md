@@ -1,6 +1,6 @@
 # Apollo Server Express TypeScript Starter
 
-A starter template for express with apollo server.
+A starter template for **GraphQL** server using **express** with **apollo server**.
 
 ### What's inside this starter template?
 
