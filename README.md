@@ -4,7 +4,7 @@ A starter template for express with apollo server.
 
 ### What's inside this starter template?
 
-typescript, express, apolloserver, graphql, nodemon, dotenv
+typescript, express, apolloserver, graphql, type-graphql, nodemon, dotenv
 
 ### How to get started?
 
